@@ -6,7 +6,7 @@ Put index.html and rmnchr.bat in "C:\Windows\System32\"
 ```
 
 ## Usage
-```bash
+```text
 in terminal: rmnchr
 ```
 
