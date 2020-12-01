@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Chrono</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+        *{margin:0;padding:0;box-sizing:border-box;background:#000;color:#C79864;font-family:'Montserrat', sans-serif;}
+        .container{display:flex;flex-direction:column;justify-content:center;;min-height:100vh;letter-spacing:15px;}
+        h2{margin-top:20px;text-align:center;font-size:40px;}
+        #remain{font-size:150px;letter-spacing:70px;text-align:center;text-indent:40px;}
+    </style>
+</head>
+<body>
+    <div class="container"><h1 id="remain"/><h2>SECONDS</h2></div>
+    <script>
+        secondsRemain = () => {var d = new Date();document.querySelector("#remain").innerHTML=86400-((d.getHours()*3600)+(d.getMinutes()*60)+d.getSeconds());setTimeout(secondsRemain, 1000);};secondsRemain();
+    </script>
+</body>
+</html>
