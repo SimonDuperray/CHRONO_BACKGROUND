@@ -1,6 +1,6 @@
 # CHRONO_BACKGROUND
 
-## Table of contents
+## Table of contents :clipboard:
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -16,8 +16,8 @@ Chrono_Background is created with:
 * batch
 	
 ## Setup
-Clone these files at "C:\Windows\System32\"
-To launch the program, just write rmnchr in a terminal, and the window will appear in fullscreen:
+Clone these files at "C:\Windows\System32\".
+To launch the program, just write 'rmnchr' in a terminal, and the window will appear in fullscreen:
 ```bat
 $ rmnchr
 ```
