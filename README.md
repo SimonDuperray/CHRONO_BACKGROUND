@@ -19,6 +19,9 @@ Chrono_Background is created with:
 	
 ## :cd: Setup
 Clone these files at "C:\Windows\System32\".
+```bat
+$ git clone https://github.com/SimonDuperray/ot_Chrono-background.git
+```
 To launch the program, just write 'rmnchr' in a terminal, and the window will appear in fullscreen:
 ```bat
 $ rmnchr
