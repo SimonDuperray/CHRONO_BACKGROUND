@@ -8,7 +8,8 @@
 * [Setup](#setup)
 
 ## :page_facing_up: General info
-Chrono_Background is a simple web page standing the remaining seconds before the end of the day. It can help some people to be more producing. It is also another way to see the time pass.
+Chrono_Background is a simple web page standing the remaining seconds before the end of the day. It can help some people to be more producing. It is also another way to see the time pass.<br><br>
+[![rmnchr.png](https://i.postimg.cc/jqpGSYYf/rmnchr.png)](https://postimg.cc/DmcCxDZf)<br><br>
 	
 ## :computer: Technologies
 Chrono_Background is created with:
