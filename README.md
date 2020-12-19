@@ -1,9 +1,9 @@
 # CHRONO_BACKGROUND
 
 ## :clipboard: Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [:page_facing_up: General info](#general-info)
+* [:computer: Technologies](#technologies)
+* [:cd: Setup](#setup)
 
 ## :page_facing_up: General info
 Chrono_Background is a simple web page standing the remaining seconds before the end of the day. It can help some people to be more producing. It is also another way to see the time pass.
